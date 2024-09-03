@@ -7,3 +7,7 @@ while k < indice:
     soma += k 
 
 print(soma)
+
+'''
+resultado 91
+'''
